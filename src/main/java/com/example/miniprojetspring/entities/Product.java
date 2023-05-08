@@ -1,5 +1,6 @@
 package com.example.miniprojetspring.entities;
 
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,13 +15,13 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "dish")
-public class Dish {
+@Table(name = "product")
+public class Product {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
-	@Column(name = "dish_name")
+	@Column(name = "product_name")
 	private String name;
 	@Column(name = "description")
 	private String description;
@@ -30,11 +31,11 @@ public class Dish {
 	@OneToMany
 	private List<FoodMenu> foodmenu = new ArrayList<>();
 	
-	public Dish() {
+	public Product() {
 		
 	}
 
-	public Dish(String name, String description, long price, List<FoodMenu> foodmenu) {
+	public Product(String name, String description, long price, List<FoodMenu> foodmenu) {
 		super();
 		this.name = name;
 		this.description = description;
@@ -87,3 +88,4 @@ public class Dish {
 	
 
 }
+
