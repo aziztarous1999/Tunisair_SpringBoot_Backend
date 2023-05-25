@@ -38,33 +38,33 @@ Login:
 </br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300018633183334/image.png?width=1002&height=477)
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png?width=996&height=471)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png?width=1002&height=477)
 </br>
 
 </br>
 
 Registration:
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300482137329784/image.png?width=1012&height=475)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300482137329784/image.png?width=1002&height=477)
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300760844648538/image.png?width=1003&height=482)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300760844648538/image.png?width=1002&height=477)
 
 </br>
-</br>
+
 
 Dashboard:
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301143000264724/image.png?width=1202&height=573)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301143000264724/image.png?width=1002&height=477)
 
-</br></br>
+</br>
 Dish Controlling:
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301218019586208/image.png?width=1202&height=571)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301218019586208/image.png?width=1002&height=477)
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301884951670825/image.png?width=1202&height=572)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301884951670825/image.png?width=1002&height=477)
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111302852682457098/image.png?width=1202&height=571)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111302852682457098/image.png?width=1002&height=477)
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111303221605056522/image.png?width=1202&height=562)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111303221605056522/image.png?width=1002&height=477)
 </br>
 
 ### AND MUCH MUCH MORE ...
