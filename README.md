@@ -43,6 +43,7 @@ Login:
 
 </br>
 Registration:
+</br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300482137329784/image.png?width=1012&height=475)
 </br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300760844648538/image.png?width=1003&height=482)
