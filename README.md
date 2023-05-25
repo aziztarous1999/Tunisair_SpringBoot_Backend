@@ -38,6 +38,7 @@ Login:
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300018633183334/image.png?width=1002&height=477)
 </br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png?width=996&height=471)
+</br>
 
 </br>
 Registration:
@@ -45,7 +46,8 @@ Registration:
 </br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300760844648538/image.png?width=1003&height=482)
 
-</br></br>
+</br>
+</br>
 Dashboard:
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301143000264724/image.png?width=1202&height=573)
 
