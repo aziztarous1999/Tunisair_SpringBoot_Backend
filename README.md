@@ -36,9 +36,9 @@ You can find the full documentation about the endpoints:
 ## Screenshots
 Login:
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300018633183334/image.png|width=1002&height=477)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300018633183334/image.png?width=1002&height=477)
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png|width=1002&height=477)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png?width=1002&height=477)
 </br>
 
 </br>
