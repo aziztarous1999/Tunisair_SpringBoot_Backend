@@ -1,7 +1,7 @@
-<p align="center">
-![Logo](https://media.discordapp.net/attachments/1111025016704872471/1111299687400607784/image_2023-03-22_130827121-removebg-preview.png?width=698&height=557)
-</p>
 
+<p align="center">
+    <img width="300" src="[http://material-bread.org/logo-shadow.svg](https://media.discordapp.net/attachments/1111025016704872471/1111299687400607784/image_2023-03-22_130827121-removebg-preview.png?width=698&height=557)" alt="App Logo">
+</p>
 # Tunisair SpringBoot Application
 
 The Spring Boot backend project for Tunisair is a robust and scalable application that serves as the backbone for managing various operations related to the airline. It is built using the Spring Boot framework, which provides a powerful and efficient way to develop Java-based applications.
