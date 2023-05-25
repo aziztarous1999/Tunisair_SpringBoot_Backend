@@ -36,31 +36,32 @@ You can find the full documentation about the endpoints:
 ## Screenshots
 Login:
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300018633183334/image.png?width=1002&height=477)
-
+</br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png?width=996&height=471)
 
-
+</br>
 Registration:
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300482137329784/image.png?width=1012&height=475)
-
+</br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300760844648538/image.png?width=1003&height=482)
 
-
+</br></br>
 Dashboard:
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301143000264724/image.png?width=1202&height=573)
 
-
+</br></br>
 Dish Controlling:
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301218019586208/image.png?width=1202&height=571)
-
+</br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301884951670825/image.png?width=1202&height=572)
-
+</br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111302852682457098/image.png?width=1202&height=571)
-
+</br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111303221605056522/image.png?width=1202&height=562)
-
+</br>
 
 ### AND MUCH MUCH MORE ...
+</br></br>
 ## License
 
 This project is created and owned by Aziz Tarous.
