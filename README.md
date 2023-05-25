@@ -42,6 +42,7 @@ Login:
 </br>
 
 </br>
+
 Registration:
 </br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300482137329784/image.png?width=1012&height=475)
@@ -50,7 +51,9 @@ Registration:
 
 </br>
 </br>
+
 Dashboard:
+</br>
 ![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111301143000264724/image.png?width=1202&height=573)
 
 </br></br>
