@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="698" height="557" src="[http://material-bread.org/logo-shadow.svg](https://media.discordapp.net/attachments/1111025016704872471/1111299687400607784/image_2023-03-22_130827121-removebg-preview.png" alt="App Logo">
+    <img width="698" height="557" src="https://media.discordapp.net/attachments/1111025016704872471/1111299687400607784/image_2023-03-22_130827121-removebg-preview.png" alt="App Logo">
 </p>
 # Tunisair SpringBoot Application
 
