@@ -34,13 +34,11 @@ You can find the full documentation about the endpoints:
 [POSTMAN Documentation](https://documenter.getpostman.com/view/13585043/2s93m62hr7)
 
 ## Screenshots
-<div width="500">
-
 Login:
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300018633183334/image.png?width=1002&height=477)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300018633183334/image.png|width=1002&height=477)
 </br>
-![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png?width=1002&height=477)
+![App Screenshot](https://media.discordapp.net/attachments/1111025016704872471/1111300277702774804/image.png|width=1002&height=477)
 </br>
 
 </br>
